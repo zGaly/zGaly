@@ -36,10 +36,6 @@ I studied software for 2 years and have been working professionally for the past
 <br/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zGaly&layout=compact&theme=default)  
-<br/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zGaly&theme=default)
-
 
 ## Get in touch
 
