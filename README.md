@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNxcmRmaTRmZThlZnI4cDM3aXMzb3JvbHE4aDlzazBuZHJhZWNiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9HBduC3ZIgrG8/giphy.gif" width="600" alt="Developer GIF"/>
-</p>
-
 # Hi, I'm José Luís
 
 I'm a junior developer with a strong focus on mobile and web development.  
@@ -29,3 +25,11 @@ I studied software for 2 years and have been working professionally for the past
 - GitHub: [zGaly](https://github.com/zGaly)
 - Email: josegalinha98@gmail.com
 - Discord: zgaly
+
+## 😂
+
+<p align="center">
+  <img src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="400" alt="Programming Humor" />
+  <br/>
+  <i>Because programming always goes as planned, right?</i>
+</p>
