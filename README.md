@@ -7,7 +7,7 @@ I studied software for 2 years and have been working professionally for the past
 
 - **Mobile:** Kotlin (Android), learning Swift (iOS);
 - **Frontend:** Angular, React, TypeScript, JavaScript, learning Next.js;
-- **Backend/Other:** PHP, SQL, Firebase, REST APIs;
+- **Backend/Other:** PHP, SQL, Firebase (Firestore + Auth), REST APIs;
 
 ## Projects
 
