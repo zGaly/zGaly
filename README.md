@@ -30,11 +30,16 @@ I studied software for 2 years and have been working professionally for the past
   - [Shopping List](https://github.com/zGaly/kotlin-shopping-app): Editable lists with products and quantities
   - [Calculator](https://github.com/zGaly/kotlin-calculator-app): Basic arithmetic app with custom UI
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![José Luís's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zGaly&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zGaly&layout=compact&theme=default)
+![José Luís's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zGaly&show_icons=true&theme=default)  
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zGaly&layout=compact&theme=default)  
+<br/>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zGaly&theme=default)
+
 
 ## Get in touch
 
