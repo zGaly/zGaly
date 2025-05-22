@@ -5,7 +5,7 @@
 # Hi, I'm José Luís
 
 I'm a junior developer with a strong focus on mobile and web development.  
-I studied software engineering for 2 years and have been working professionally for the past few months.
+I studied software for 2 years and have been working professionally for the past few months.
 
 Currently focused on building full-stack projects with real-world functionality and clean architecture.
 
