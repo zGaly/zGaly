@@ -7,8 +7,6 @@
 I'm a junior developer with a strong focus on mobile and web development.  
 I studied software for 2 years and have been working professionally for the past few months.
 
-Currently focused on building full-stack projects with real-world functionality and clean architecture.
-
 ## Tech I work with
 
 - **Mobile:** Kotlin (Android), learning Swift (iOS);
