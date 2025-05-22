@@ -24,7 +24,7 @@ I studied software for 2 years and have been working professionally for the past
   Full-featured admin dashboard to manage schools, teachers, courses, and contracts  
   → [View project](https://github.com/zGaly/teacher-job-admin-portal)
 
-## 📫 Get in touch
+## Get in touch
 
 - GitHub: [zGaly](https://github.com/zGaly)
 - Email: josegalinha98@gmail.com
