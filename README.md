@@ -26,7 +26,7 @@ I studied software for 2 years and have been working professionally for the past
 - Email: josegalinha98@gmail.com
 - Discord: zgaly
 
-## 😂
+##
 
 <p align="center">
   <img src="https://media.giphy.com/media/93UOscPyDH8cdRfSaT/giphy.gif" width="400" alt="Programming Humor" />
