@@ -7,7 +7,7 @@ I studied software for 2 years and have been working professionally for the past
 
 - **Mobile:** Kotlin (Android), learning Swift (iOS);
 - **Frontend:** Angular, React, TypeScript, JavaScript, learning Next.js;
-- **Backend/Other:** PHP, SQL, Firebase (Firestore + Auth), REST APIs;
+- **Backend/Other:** PHP, SQL, Firebase (Firestore + Auth), REST APIs, MuleSoft fundamentals;
 
 ## Projects
 
@@ -22,6 +22,9 @@ I studied software for 2 years and have been working professionally for the past
 - **WooCommerce VaspExpresso Plugin**  
   Shipping integration plugin developed for internal use at a company, connecting WooCommerce stores to the VaspExpresso carrier service.  
   → [Documentation](https://github.com/zGaly/woocommerce-vaspexpresso)
+
+- **Mini Swift Projects**
+  - [Quote of the Day](https://github.com/zGaly/swift-quoteoftheday): New Quotes, reflections to make about them. 
 
 - **Mini Kotlin Projects**  
   A series of small Android apps built during my academic training to practice architecture, data handling, and UI logic:
