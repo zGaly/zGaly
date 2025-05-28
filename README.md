@@ -2,6 +2,7 @@
 
 I'm a junior developer with a strong focus on mobile and web development.  
 I studied software for 2 years and have been working professionally for the past few months.
+Currently expanding my backend skills through training in API design and integration with MuleSoft.
 
 ## Tech I work with
 
