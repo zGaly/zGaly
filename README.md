@@ -1,8 +1,7 @@
 # Hi, I'm José Luís 👋
 
 I'm a Junior Software Engineer with a strong focus on mobile and web development.  
-I studied software for 2 years and have been working professionally since early 2024.  
-Currently expanding my backend skills through API design and system integration training (MuleSoft).
+I studied software for 2 years and have been working professionally since early 2025.  
 
 ---
 
