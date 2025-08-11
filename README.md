@@ -1,6 +1,6 @@
 # Hi, I'm José Luís 👋
 
-I'm a Junior Software Engineer with a strong focus on mobile and web development.  
+I'm a Software Engineer with a strong focus on mobile and web development.  
 I studied software for 2 years and have been working professionally since early 2025.  
 
 ---
