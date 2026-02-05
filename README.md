@@ -16,12 +16,6 @@ I studied software for 2 years and have been working professionally since early 
 ### Frameworks & Tools
 - Angular · React · Next.js · Firebase · WordPress/WooCommerce · Git · Xcode · VS Code
 
----
-
-## GitHub Stats
-
-![José Luís's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zGaly&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zGaly&layout=compact&theme=default)
 
 ---
 
